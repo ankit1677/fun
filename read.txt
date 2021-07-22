@@ -1,4 +1,8 @@
 Added text Change
 
 
+<<<<<<< HEAD
 Ankit Singh
+=======
+Text added in alt branch
+>>>>>>> gitalt
