@@ -3,6 +3,10 @@ Added text Change
 
 <<<<<<< HEAD
 Ankit Singh
+<<<<<<< HEAD
 =======
 Text added in alt branch
 >>>>>>> gitalt
+=======
+Hey Ankitsssss
+>>>>>>> c8c3b8aeb3cb2c37e503dc22d5c1b111a92746b0
